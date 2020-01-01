@@ -4,6 +4,6 @@ def position_taken?(board, index)
     puts "taken"
   elsif board[index]= "X"
   end
-  
+
 
 end
